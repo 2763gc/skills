@@ -23,6 +23,7 @@
 | security-auditor | 安全审计 | `security-auditor/SKILL.md` |
 | code | 编程辅助 | `code/SKILL.md` |
 | seo | SEO 优化 | `seo/SKILL.md` |
+| ui-ux-pro-max | UI/UX 设计 | `ui-ux-pro-max/SKILL.md` |
 
 ## 添加新 Skill
 
