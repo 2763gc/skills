@@ -14,6 +14,15 @@ AI 助手在使用 skills 前，先读此文件了解可用技能列表。
 
 ## 可用 Skills
 
+### superdesign
+
+- **路径:** `superdesign/SKILL.md`
+- **描述:** 前端页面设计辅助。提供结构化设计流程：ASCII 线框图布局 → 主题设计（配色/字体/间距）→ 动画设计 → 代码实现。内置多种主题模式（暗黑、新粗野、毛玻璃），遵循 Tailwind + Flowbite + Lucide 技术栈，强调响应式和无障碍设计。
+- **适用场景:** Landing page、仪表盘、UI 组件、原型设计、前端页面快速搭建
+- **关键词:** frontend, design, UI, landing page, 组件, 布局, Tailwind, 响应式, 暗黑模式, 动画
+
+---
+
 ### ui-ux-pro-max
 
 - **路径:** `ui-ux-pro-max/SKILL.md`
